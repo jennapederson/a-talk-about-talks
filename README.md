@@ -44,7 +44,7 @@ This repository contains resources used for my [Minnebar][19] presentation ["A T
 * [@CallbackWomen][23] on Twitter
 
 
-[1]: http://www.slideshare.net/jennapederson
+[1]: http://www.slideshare.net/jennapederson/a-talk-about-talks
 [2]: http://compfight.com/
 [3]: http://unsplash.com/
 [4]: http://photopin.com/
