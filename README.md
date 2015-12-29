@@ -6,6 +6,10 @@ This repository contains resources used for my [Minnebar][19] presentation ["A T
 
 [A Talk About Talks][1]
 
+## Video ##
+
+[A Talk About Talks][24]
+
 ## Images ##
 
 * your own photography/images
@@ -67,3 +71,4 @@ This repository contains resources used for my [Minnebar][19] presentation ["A T
 [21]: http://www.meetup.com/
 [22]: http://lanyrd.com/calls/
 [23]: https://twitter.com/callbackwomen
+[24]: https://www.youtube.com/watch?v=4eQ1NSBt7hs
